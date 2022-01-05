@@ -1,0 +1,14 @@
+C:\Users\raddu\source\repos\Convert2Dto1D\Convert2Dto1D\bin\Debug\netcoreapp3.1\Convert2Dto1D.exe
+C:\Users\raddu\source\repos\Convert2Dto1D\Convert2Dto1D\bin\Debug\netcoreapp3.1\Convert2Dto1D.deps.json
+C:\Users\raddu\source\repos\Convert2Dto1D\Convert2Dto1D\bin\Debug\netcoreapp3.1\Convert2Dto1D.runtimeconfig.json
+C:\Users\raddu\source\repos\Convert2Dto1D\Convert2Dto1D\bin\Debug\netcoreapp3.1\Convert2Dto1D.runtimeconfig.dev.json
+C:\Users\raddu\source\repos\Convert2Dto1D\Convert2Dto1D\bin\Debug\netcoreapp3.1\Convert2Dto1D.dll
+C:\Users\raddu\source\repos\Convert2Dto1D\Convert2Dto1D\bin\Debug\netcoreapp3.1\Convert2Dto1D.pdb
+C:\Users\raddu\source\repos\Convert2Dto1D\Convert2Dto1D\obj\Debug\netcoreapp3.1\Convert2Dto1D.csproj.AssemblyReference.cache
+C:\Users\raddu\source\repos\Convert2Dto1D\Convert2Dto1D\obj\Debug\netcoreapp3.1\Convert2Dto1D.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\raddu\source\repos\Convert2Dto1D\Convert2Dto1D\obj\Debug\netcoreapp3.1\Convert2Dto1D.AssemblyInfoInputs.cache
+C:\Users\raddu\source\repos\Convert2Dto1D\Convert2Dto1D\obj\Debug\netcoreapp3.1\Convert2Dto1D.AssemblyInfo.cs
+C:\Users\raddu\source\repos\Convert2Dto1D\Convert2Dto1D\obj\Debug\netcoreapp3.1\Convert2Dto1D.csproj.CoreCompileInputs.cache
+C:\Users\raddu\source\repos\Convert2Dto1D\Convert2Dto1D\obj\Debug\netcoreapp3.1\Convert2Dto1D.dll
+C:\Users\raddu\source\repos\Convert2Dto1D\Convert2Dto1D\obj\Debug\netcoreapp3.1\Convert2Dto1D.pdb
+C:\Users\raddu\source\repos\Convert2Dto1D\Convert2Dto1D\obj\Debug\netcoreapp3.1\Convert2Dto1D.genruntimeconfig.cache
